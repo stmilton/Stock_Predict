@@ -14,3 +14,5 @@
 8.雙週線  
 9.月線  
 10.季線  
+![螢幕擷取畫面 2022-03-18 132911](https://user-images.githubusercontent.com/83272077/158943374-b6b2bcf9-d818-49f0-8294-6011554ab3a1.png)
+![螢幕擷取畫面 2022-03-18 132943](https://user-images.githubusercontent.com/83272077/158943377-296db525-e149-45df-a61c-a1dd0e49c2ab.png)
